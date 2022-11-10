@@ -1,0 +1,18 @@
+{
+    "plant": [
+        {
+            "id": 1,
+            "name": "Bok Choy",
+            "image": "Bok Choy",
+            "date": "11/08/2022",
+            "info": "Bok Choy exists since 400 AD in China.<br><br>It’s name is derived from the Chinese name “soup spoon” due to the shape of its leaves.<br><br>Although it’s known as Chinese green, the vegetable has worked its way into many cuisines around the world, particularly in the Caribbean in the 19th century."
+        },
+        {
+            "id": 2,
+            "name": "Lettuce",
+            "image": "Lettuce",
+            "date": "14/11/2022",
+            "info": "Lettuce is a member of the sunflower family.<br><br>On average, each American eats 30 pounds of lettuce every year.<br><br>Most lettuce sold in the US is grown in California. Lettuce leaves that are darker in color contain more vitamins and minerals than the paler color varieties."
+        }
+    ]
+}
